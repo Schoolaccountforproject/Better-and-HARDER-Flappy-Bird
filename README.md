@@ -1,5 +1,5 @@
 # Better-and-HARDER-Flappy-Bird
-![alt text](Better-and-HARDer-Flappy-Bird/stuff/thing.jpg)
+![alt text](Better-and-HARDER-Flappy-Bird/stuff/thing.jpg)
 ## Description
 This is a little Flappy Bird type game I made using pygame via Pycharm. What makes it special to me is the fact that thi is technically the first game I've made. It doesn't have a lot of features or any really visually appealing elements, but I've put my time into it and as beginner in coding with an experience of probably 2 months (started computer science 5 months ago but the actual time spent on it was not 5 months), I feel pretty confident with this first game, I hope you all like it! **I WILL KEEP UPDATING THIS GAME SINCE IT IS MY FIRST ONE AND I ALSO WANT TO ADD MORE FUN FEATURES!**
 ## Installation
